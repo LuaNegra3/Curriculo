@@ -1,0 +1,58 @@
+
+
+
+*{
+    /*border: solid black;*/
+    margin: 0; 
+    padding: 0;
+   box-sizing: border-box;
+   font-family: 'Mooli', sans-serif;
+   
+ }
+ h1{
+    color: rgb(50, 6, 94);
+    font-size: 20px;
+    text-align: center;
+ }
+
+ body{
+    background-color: rgb(76, 121, 165);
+    height: 100vh;
+}
+
+h3.titulo{
+    color: rgb(50, 6, 94);
+    font-size: 20px;
+    text-align: center;
+}
+h3.titulo span{
+    color: black;
+}
+
+li{
+    color: rgb(104, 6, 6);
+    font-size: 16px;
+    text-align: center;
+    padding: 5px;
+}
+
+img{
+      margin: 30px;
+      border-radius: 50%;
+      border: 5px solid #ad0b0b;
+}
+
+.interface{
+    text-align: center;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black
+}
+
+.container{
+    padding: 30px;
+    margin: 2px;
+}
